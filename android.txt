@@ -1,3 +1,0 @@
-title=Clock app
-author=Nicolas Mauchle
-orientation=portrait
